@@ -1,0 +1,3 @@
+Name: Aditya Mane
+Skills: HTML, CSS, Javascript, Tailwind CSS, Bootstrap, Git, Github, C, C++, Shell Scripting
+Email: manea3610@gmail.com
